@@ -17,8 +17,6 @@
 
 <br />
 
-<br/>
-
 <p>
 A Skilled Java Spring MVC Developer 🚀 from India| Currently Living inPortugal . Always working on some project or learning something new!
 <br/>
@@ -44,7 +42,7 @@ Want to Work a full-time Java Programmer 💸 and an Open Source Contributor ❤
 <br/>
 
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+### 🛠 Languages And Tools
 
 <br/>
 
