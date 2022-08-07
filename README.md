@@ -18,7 +18,7 @@
 <br />
 
 <p>
-A Skilled Java Spring MVC Developer 🚀 from India| Currently Living inPortugal . Always working on some project or learning something new!
+A Skilled Java Spring MVC Developer 🚀 from India | Currently Living inPortugal . Always working on some project or learning something new!
 <br/>
 Stacks I have worked with : Java , Spring MVC , Groovy , Angular , Java Script.
 <br/>  
