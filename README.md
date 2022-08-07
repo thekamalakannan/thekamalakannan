@@ -31,11 +31,11 @@ Want to Work a full-time Java Programmer 💸 and an Open Source Contributor ❤
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working as a freelancer.
-- 🌱 I’m currently learning Angular and TypeScript && Cyber Security.
+- 🌱 I’m currently learning Angular and TypeScript & Cyber Security.
 <!--- 🤔 I’m looking for help for my future MERN projects.-->
 - 💬 Ask me about anything related to Java, React, Spring MVC, Javascript.(After googling it 😜😌)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
-- 🎿 Hobbies other than coding : Reading Books or Creating Busineess Ideas.
+- 🎿 Hobbies other than coding : Reading Books or Creating Business Ideas.
 - 📫 How to reach me: Kamalkuppus@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1EmCwBYCs-In6k0NQmuvPLaFKDz3GANzR/view?usp=sharing)
 
