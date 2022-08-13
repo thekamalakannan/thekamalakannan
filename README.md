@@ -18,7 +18,7 @@
 <br />
 
 <p>
-A Skilled Java Spring MVC Developer 🚀 from India | Currently Living inPortugal . Always working on some project or learning something new!
+A Skilled Java Spring MVC Developer 🚀 from India | Currently Living in Portugal . Always working on some project or learning something new!
 <br/>
 Stacks I have worked with : Java , Spring MVC , Groovy , Angular , Java Script.
 <br/>  
@@ -32,7 +32,7 @@ Want to Work as a full-time Java Programmer 💸 and an Open Source Contributor 
 
 - 👨🏽‍💻 I’m currently working as a freelancer.
 - 🌱 I’m currently learning Angular and TypeScript & Cyber Security.
-- 💬 Ask me about anything related to Java, React, Spring MVC, Javascript.(After googling it 😜😌)
+- 💬 Ask me about anything related to Java, Spring MVC, Javascript.(After googling it 😜😌)
 - 🎿 Hobbies other than coding : Reading Books or Creating Business Ideas.
 - 📫 How to reach me: Kamalkuppus@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1EmCwBYCs-In6k0NQmuvPLaFKDz3GANzR/view?usp=sharing)
