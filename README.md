@@ -24,7 +24,7 @@ Stacks I have worked with : Java , Spring MVC , Groovy , Angular , Java Script.
 <br/>  
 Things I am currently experimenting with : SIEM , Java 8 , React, ...
 <br/>
-Want to Work as a full-time Java Programmer 💸 and an Open Source Contributor ❤️.
+Want to Work as a full-time Java Programmer || Network security Engineer 💸 and an Open Source Contributor ❤️.
 </p>
 
 
