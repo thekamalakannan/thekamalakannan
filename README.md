@@ -30,7 +30,7 @@ Want to Work as a full-time Java Programmer || Network security Engineer 💸 an
 
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working as a freelancer.
+- 👨🏽‍💻 I’m currently working as a full time programmer && Cyber security engineer.
 - 🌱 I’m currently learning Angular and TypeScript & Cyber Security.
 - 💬 Ask me about anything related to Java, Spring MVC, Javascript.(After googling it 😜😌)
 - 🎿 Hobbies other than coding : Reading Books or Creating Business Ideas.
