@@ -35,7 +35,7 @@ Want to Work as a full-time Java Programmer || Network security Engineer 💸 an
 - 💬 Ask me about anything related to Java, Spring MVC, Javascript.(After googling it 😜😌)
 - 🎿 Hobbies other than coding : Reading Books or Creating Business Ideas.
 - 📫 How to reach me: Kamalkuppus@gmail.com
-- 📝 [Resume]([https://www.google.com](https://drive.google.com/file/d/1OnqLS64h87On-uq26sbWsI8bjNnWF7Za/view?usp=sharing))
+- 📝 [Resume](https://drive.google.com/file/d/1OnqLS64h87On-uq26sbWsI8bjNnWF7Za/view?usp=sharing)
 
 <br/>
 
